@@ -1,0 +1,21 @@
+//
+//  OverdueTaskList.pch
+//  Overdue Task List
+//
+//  Created by Eugene Rozhkov on 05.11.14.
+//  Copyright (c) 2014 nordPoint. All rights reserved.
+//
+
+#ifndef Overdue_Task_List_OverdueTaskList_pch
+#define Overdue_Task_List_OverdueTaskList_pch
+
+#define TASK_TITLE @"title"
+#define TASK_DETAILS @"details"
+#define TASK_DUE_DATE @"date"
+#define TASK_COMPLETED @"completed"
+#define TASK_LIST_STORAGE @"storage"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
